@@ -26,7 +26,7 @@
 <body>
 
     <div class="brand">The YumFood Diaries</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="address-bar">A102345 Hills  | Golden Nest, GCC 24 | 123.456.7890</div>
 
     <!-- Navigation -->
     <?php require_once 'nav.php'; ?>
@@ -65,15 +65,15 @@ Our expert have a lifelong passion for food. They are internationally (mira road
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt1.jpg" alt="">
-                    <h3>James Moore</h3>
+                    <h3>Member 1</h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt2.jpg" alt="">
-                    <h3>Jane Brown</h3>
+                    <h3>Member 2</h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt3.jpg" alt="">
-                    <h3>Anne Marie</h3>
+                    <h3>Member 3</h3>
                 </div>
                 <div class="clearfix"></div>
             </div>
