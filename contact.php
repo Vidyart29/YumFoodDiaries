@@ -124,7 +124,7 @@
                         <strong>7045172888</strong>
                     </p>
                     <p>Email:
-                        <strong><a href="mailto:info@theperfectcup.com">"enter owners mail here"</a></strong>
+                        <strong><a href="mailto:info@....com">"enter owners mail here"</a></strong>
                     </p>
                     <!-- <p>Address:
                         <strong>3481 Melrose Place
