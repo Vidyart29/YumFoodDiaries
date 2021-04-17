@@ -1,14 +1,13 @@
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    /* background: url('../img/bg.jpg') no-repeat center center fixed ; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-   background:url('img/wes-branch-FW2Jcf_o8hc-unsplash.jpg');
 }
+
 h1,
-h2,
+h2,  
 h3,
 h4,
 h5,
