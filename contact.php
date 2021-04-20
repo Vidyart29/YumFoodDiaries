@@ -125,11 +125,7 @@
                     </p>
                     <p>Email:
                         <strong><a href="mailto:info@....com">"enter owners mail here"</a></strong>
-                    </p>
-                    <!-- <p>Address:
-                        <strong>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</strong>
-                    </p> -->
+			</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
