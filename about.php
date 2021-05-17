@@ -63,19 +63,19 @@ Our expert have a lifelong passion for food. They are internationally (mira road
                     </h2>
                     <hr>
                 </div>
-                <div class="col-sm-4 text-center">
+                <!-- <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt1.jpg" alt="">
                     <h3>Member 1</h3>
+                </div> -->
+                <div class="col-sm-4 text-center" id="centerimg">
+                    <img  class="img-responsive" src="img/ln_photo.jpg"  alt="">
+                    <!-- <h3>Member 2</h3> -->
                 </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="img/abt2.jpg" alt="">
-                    <h3>Member 2</h3>
-                </div>
-                <div class="col-sm-4 text-center">
+                <!-- <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt3.jpg" alt="">
                     <h3>Member 3</h3>
-                </div>
-                <div class="clearfix"></div>
+                </div> -->
+                
             </div>
         </div>
 
