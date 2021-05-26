@@ -24,7 +24,7 @@
 
 <body style="background-image: url('img/backgrnd.jpg');">
     <div class="brand">The YumFood Diaries </div>
-    <div class="address-bar">A102345 Hills  | Golden Nest, GCC 24 | 123.456.7890</div>
+    <div class="address-bar">A102345 Hills  | Golden Nest, GCC club | 123.456.7890</div>
 
 	<?php
 		
@@ -102,7 +102,7 @@
                     <hr>
                     <img class="img-responsive img-border img-left" src="img/onion-potato.jpg" alt="">
                     <hr class="visible-xs">
-                    <p>Making the Yum food can be challenging! With so many unique flavours and recipes to choose from, where do you begin? Our website provides you with the best recipes from around the world. 
+                    <p>Making the Yum food can be challenging! With so many unique flavours and recipes to choose from, where do you begin? This website provides you with the best recipes from around the world. 
                     Whether you prefer your drinks or delicious different categories of food - we are sure to have what you are looking for. For access to unlimited recipes you must direct <a href="#contactus">contact us!</a></p>
                 </div>
             </div>
@@ -115,7 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Made with ☮ RV</p>
+                    <p>&copy 2021<a href="http://"></a> Vidya Rautela</p>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
     <!-- Script to Activate the Carousel -->
     <script>
     $('.carousel').carousel({
-        interval: 5000 //changes the speed
+        interval: 5000 //can changes the speed
     })
     </script>
 

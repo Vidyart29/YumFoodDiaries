@@ -100,7 +100,7 @@
 <body style="background-image:url('img/backgrnd.jpg');">
 
     <div class="brand">The YumFood Diaries</div>
-    <div class="address-bar">A102345 Hills  | Golden Nest, GCC 24 | 123.456.7890</div>
+    <div class="address-bar">A102345 Hills  | Golden Nest, GCC club | 123.456.7890</div>
 
     <!-- Navigation -->
     <?php require_once 'nav.php'; ?>
@@ -171,7 +171,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Made with ☮ by RV </p>
+                    <p>Made with ☮ by <a href=""></a> Vidya Rautela </p>
                 </div>
             </div>
         </div>

@@ -86,7 +86,7 @@ Our expert have a lifelong passion for food. They are internationally (mira road
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Made with ☮ by RV</p>
+                    <p> &copy; 2021 Yum Food Diaries</p>
                 </div>
             </div>
         </div>
