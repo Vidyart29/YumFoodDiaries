@@ -19,7 +19,7 @@
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
-
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body style="background-image: url('img/backgrnd.jpg');">
@@ -92,6 +92,90 @@
             </div>
         </div>
 
+        <div class="box">
+        <div class="container1">
+            <h2>Try Out Our Fresh Cakes</h2> 
+   <div id="alerts"></div>
+<div class="productcont">
+        <div class="product">
+            <h3 class="productname">Pound Cake</h3>
+            <p class="price">$7.50</p>
+            <button class="addtocart">Add To Cart</button>
+        </div>
+        <div class="product">
+            <h3 class="productname">Sponge Cake</h3>
+            <p class="price">$9.50</p>
+            <button class="addtocart">Add To Cart</button>
+        </div>
+        <div class="product">
+            <h3 class="productname">Chiffon Cake</h3>
+            <p class="price">$10.50</p>
+            <button class="addtocart">Add To Cart</button>
+        </div>
+        </div>
+        <div class="cart-container1">
+          <h2>Cart</h2>
+          <table>
+            <thead>
+              <tr>
+              <th><strong>Product</strong></th>
+              <th><strong>Price</strong></th>
+            </tr>
+            </thead>
+            <tbody id="carttable">
+            </tbody>
+          </table>
+
+          <table id="carttotals">
+            <tr>
+              <td><strong>Items</strong></td>
+              <td><strong>Total</strong></td>
+            </tr>
+            <tr>
+              <td>x <span id="itemsquantity">0</span></td>
+             
+              <td>$<span id="total">0</span></td>
+            </tr></table>
+
+            
+          <div class="cart-buttons">  
+            <button id="emptycart">Empty Cart</button>
+            <button id="checkout">Checkout</button>
+          </div>
+        </div>
+        
+</div>
+        </div>
+
+<div class="box">
+    <div class="container">
+        
+<div class="cart-container">
+  <div class="cart-header">
+    <h1 class="cart-title">Pizza Stories</h1>
+    <p class="cart-subtitle">Thanks for your order #2357654, your package will be on it's way shortly.</p>
+  </div>
+  <div class="cart-body">
+    <div class="cart-items">
+      <div class="cart-item">
+        <div class="item-name">Special Mozzarella Cheese Pizza</div>
+        <div class="item-price">317</div>
+      </div>
+      <div class="cart-item">
+        <div class="item-name">Add Ons: Cheddar Cheese</div>
+        <div class="item-price">39</div>
+      </div>
+      <div class="cart-item">
+        <div class="item-name">TOTAL</div>
+        <div class="item-price">356</div>
+      </div>
+    </div>
+  </div>
+  <div class="cart-bg"><img src="img/pizza.jpg" alt="Pizza" style="width: 380px; height: 190px; margin-top:110px; margin-left: 27px;"/></div>
+</div>
+    </div>
+</div>
+
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
@@ -115,7 +199,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>&copy 2021<a href="http://"></a> Vidya Rautela</p>
+                    <p>&copy 2021 </p>
                 </div>
             </div>
         </div>
@@ -136,4 +220,5 @@
     </script>
 
 </body>
+<script src="js/style.js"></script>
 </html>
