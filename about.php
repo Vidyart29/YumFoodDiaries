@@ -68,8 +68,9 @@ Our expert have a lifelong passion for food. They are internationally (mira road
                     <h3>Member 1</h3>
                 </div> -->
                 <div class="col-sm-4 text-center" id="centerimg">
-                    <img  class="img-responsive" src="img/ln_photo.jpg"  alt="">
-                    <!-- <h3>Member 2</h3> -->
+                    <img class="img-responsive" src="img/ln_photo.jpg"  alt="">
+                    <a style="text-decoration: none;" href="https://www.linkedin.com/in/vidyarautela/">Vidya Rautela</a>
+                    
                 </div>
                 <!-- <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt3.jpg" alt="">
@@ -82,16 +83,6 @@ Our expert have a lifelong passion for food. They are internationally (mira road
     </div>
     <!-- /.container -->
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p> &copy; 2021 Yum Food Diaries</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <br>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
