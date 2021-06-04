@@ -85,7 +85,7 @@
                     <hr class="tagline-divider">
                     <h2>
                         <small>By
-                            <strong>Vidya Rautela</strong>
+                            <strong>Vidya Rautela and Team</strong>
                         </small>
                     </h2>
                 </div>
@@ -99,17 +99,17 @@
 <div class="productcont">
         <div class="product">
             <h3 class="productname">Pound Cake</h3>
-            <p class="price">$7.50</p>
+            <p class="price">Rs. 750</p>
             <button class="addtocart">Add To Cart</button>
         </div>
         <div class="product">
             <h3 class="productname">Sponge Cake</h3>
-            <p class="price">$9.50</p>
+            <p class="price">Rs. 950</p>
             <button class="addtocart">Add To Cart</button>
         </div>
         <div class="product">
             <h3 class="productname">Chiffon Cake</h3>
-            <p class="price">$10.50</p>
+            <p class="price">Rs. 1050</p>
             <button class="addtocart">Add To Cart</button>
         </div>
         </div>
@@ -134,7 +134,7 @@
             <tr>
               <td>x <span id="itemsquantity">0</span></td>
              
-              <td>$<span id="total">0</span></td>
+              <td>Rs. <span id="total">0</span></td>
             </tr></table>
 
             
