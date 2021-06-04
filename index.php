@@ -85,7 +85,7 @@
                     <hr class="tagline-divider">
                     <h2>
                         <small>By
-                            <strong>Vidya Rautela and Team</strong>
+                            <strong>Vidya Rautela</strong>
                         </small>
                     </h2>
                 </div>
