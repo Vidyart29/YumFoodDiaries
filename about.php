@@ -63,13 +63,14 @@ Our expert have a lifelong passion for food. They are internationally (mira road
                     </h2>
                     <hr>
                 </div>
-                <!-- <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="img/abt1.jpg" alt="">
-                    <h3>Member 1</h3>
-                </div> -->
+                <div class="col-sm-4 text-center" id="centerimg">
+                    <img class="img-responsive" src="img/Simran1.png" alt="">
+                    <h3><a style="text-decoration: none;" href="https://www.linkedin.com/in/simranbatada">Simran Batada</a></h3>
+                </div>
+
                 <div class="col-sm-4 text-center" id="centerimg">
                     <img class="img-responsive" src="img/ln_photo.jpg"  alt="">
-                    <a style="text-decoration: none;" href="https://www.linkedin.com/in/vidyarautela/">Vidya Rautela</a>
+                    <h3><a style="text-decoration: none;" href="https://www.linkedin.com/in/vidyarautela/">Vidya Rautela</a></h3>
                     
                 </div>
                 <!-- <div class="col-sm-4 text-center">
