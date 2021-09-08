@@ -83,11 +83,11 @@
                     </h2>
                     <h1 class="brand-name">The YumFood Diaries</h1>
                     <hr class="tagline-divider">
-                    <h2>
+                    <!-- <h2>
                         <small>By
                             <strong>Vidya Rautela</strong>
                         </small>
-                    </h2>
+                    </h2> -->
                 </div>
             </div>
         </div>
