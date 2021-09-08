@@ -46,9 +46,10 @@
                     <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ooUAVHJAcyk' frameborder='0' allowfullscreen></iframe></div>
                 </div>
                 <div class="col-md-6">
-                    <p>The YumFood Diaries launched in 2020, in the heart of MiraBhayander. Our mission is simple. We want to teach coffee drinkers  and food lovers all over the world how to make the perfect desired food/blend!
+                    <p>The YumFood Diaries launched in 2020, in the heart Mumbai. Our mission is simple. We want to teach coffee drinkers 
+                         and food lovers all over the world how to make the perfect desired food/blend!
 
-Our expert have a lifelong passion for food. They are internationally (mira road and MiraBhayander) traveled and have experienced many varieties.</p>
+Our expert have a lifelong passion for food. They are internationally traveled and have experienced many varieties.</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -58,7 +59,7 @@ Our expert have a lifelong passion for food. They are internationally (mira road
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Our
+                    <h2 class="intro-text text-center">
                         <strong>Team</strong>
                     </h2>
                     <hr>
@@ -73,11 +74,7 @@ Our expert have a lifelong passion for food. They are internationally (mira road
                     <h3><a style="text-decoration: none;" href="https://www.linkedin.com/in/vidyarautela/">Vidya Rautela</a></h3>
                     
                 </div>
-                <!-- <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="img/abt3.jpg" alt="">
-                    <h3>Member 3</h3>
-                </div> -->
-                
+    
             </div>
         </div>
 
